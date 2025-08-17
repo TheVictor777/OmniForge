@@ -1,0 +1,13 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore the datasets folder (users should download them manually)
+Datasets/
+
+# Ignore common IDE/editor folders
+.vscode/
+.idea/
