@@ -50,7 +50,7 @@ Follow these instructions to set up the project environment and run the models o
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/TheVictor777/OmniForge.git](https://github.com/TheVictor777/OmniForge.git)
+    git clone https://github.com/TheVictor777/OmniForge.git
     ```
 
 2.  **Navigate to the project directory:**
